@@ -1,0 +1,27 @@
+Admin Dashboard ------ Angular project work flow
+
+1. Create project ------ ng new admin-dashboard
+2. Run project ------ ng s/server (in project folder)
+3. Install third party libraries 
+            - angular material
+4. to use any component from material copy the api from particular component and paste it in app module.ts
+5. Generate component
+          
+           -header
+           -footer
+           -sidebar
+           -dashboard
+                 -card
+                 -area chart
+                 -table
+                 -piechart
+                       -employees
+                       -gallery
+                       -contact
+                       -leads
+
+
+
+ @output----------- output decreator ---------                       
+
+           child to parent data communication..                      
